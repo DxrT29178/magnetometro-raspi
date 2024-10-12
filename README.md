@@ -21,4 +21,6 @@
 #//  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 #//  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-este programa y codigo es parte de un proyecto de investigacion sobre nanoparticular mangneticas.
+este programa y codigo es parte de un proyecto de investigacion sobre nanoparticular mangneticas. se utilizaron
+librerias de RTIMULib para calibrar el sensor magnetico y obtener los parametros de filtros, como filtros de
+Kalman u otros.
