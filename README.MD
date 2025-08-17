@@ -1,12 +1,12 @@
 ### Hola
 
-PetroMag – Magnetómetro casero para óxidos magnéticos en rocas
+PetroMag – Magnetómetro bajo costo para medir y caracterizar oxidos magnéticos en rocas
 
-Este proyecto es un magnetómetro casero diseñado para la medición, calibración y análisis de campos magnéticos en muestras de rocas que contienen óxidos magnéticos.
+Este proyecto es diseñado para la medición, calibración y análisis de campos magnéticos en muestras de rocas que contienen óxidos magnéticos.
 
 La idea surge como una herramienta de bajo costo para la investigación y enseñanza en geofísica, geología y ciencias de materiales, donde es importante caracterizar el comportamiento magnético de minerales.
 
-✨ Características principales
+Características principales
 
 Adquisición en tiempo real de datos con un magnetómetro conectado por I²C.
 
@@ -24,6 +24,7 @@ Magnitud vs tiempo.
 
 Variación en distintas orientaciones.
 
-Interfaz gráfica sencilla con Tkinter.
+Aunque falta una Interfaz gráfica, se agregará a futuro.
+
 <!-- este será la primera roca para un proyecto de magnetismo casero, en el marco de una pequeña investigación, ojalá todo resulte bien, de ser así este proyecto será mi tesis
 >
