@@ -1,6 +1,6 @@
 ### Hola
 
-PetroMag – Magnetómetro bajo costo para medir y caracterizar oxidos magnéticos en rocas
+PetroMagical – Magnetómetro bajo costo para medir y caracterizar oxidos magnéticos en rocas
 
 Este proyecto es diseñado para la medición, calibración y análisis de campos magnéticos en muestras de rocas que contienen óxidos magnéticos.
 
